@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Apple Watch Series 997",
+      "price": 399
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 444",
+      "price": 249
+    },
+    {
+      "id": 3,
+      "name": "Fitbit Fitbit Versa 3",
+      "price": 229
+    },
+    {
+      "id": 4,
+      "name": "Garmin Garmin Forerunner 945",
+      "price": 599
+    },
+    {
+      "id": 5,
+      "name": "Fossil Fossil Gen 5",
+      "price": 299
+    }
+  ]
+  
